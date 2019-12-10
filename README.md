@@ -17,9 +17,11 @@ To perform this modification, please make sure the following criteria are met:
 
 2) Use the stock bowden tube to add support for the hotend wiring loom. Use a second bowden tube (that loops over top of the printer) to guide the filament properly. 
 
-3) Extend the filament runout sensor wires and route them along with the rest of the wires in the hotend wiring loom.
+3) Print the STL files and use the for supporting the Boden tube and on the hotend assembly. 
 
-4) Re-orient the spool holder so it is outside of the printer box to allow greater freedom and easier access to the bowden tube. 
+4) Extend the filament runout sensor wires and route them along with the rest of the wires in the hotend wiring loom.
+
+5) Re-orient the spool holder so it is outside of the printer box to allow greater freedom and easier access to the bowden tube. 
 
 # Simplify3d Profile
 
